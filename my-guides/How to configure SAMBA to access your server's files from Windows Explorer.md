@@ -1,4 +1,4 @@
-# How to access your server's files from Windows Explorer
+# How to configure SAMBA to access your server's files from Windows Explorer
 
 ## On the server:
 
